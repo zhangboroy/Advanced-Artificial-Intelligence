@@ -1,1 +1,1 @@
-# CS796
+# Advanced Artificial Intelligence
